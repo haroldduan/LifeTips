@@ -9,8 +9,10 @@
    
   *[详情介绍](https://ditu.amap.com/detail/B000AA1H66?citycode=110000)*
 
-  <img src="../static/img/basic/view_0.jpg" width="154" alt="东亚首航国际" />
-  <img src="../static/img/basic/view_1.jpeg" width="190" alt="东亚首航国际" />
+
+  ![](../static/img/basic/view_0.jpg "东亚首航国际")  
+
+  ![](../static/img/basic/view_1.jpeg "东亚首航国际")
 
     - *小区信息*  
       🪙物业费：2.68元/月/平方米  
