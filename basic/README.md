@@ -66,7 +66,7 @@
         * *便利店*  
           地址：3-3  
           微信：fanxiaohu91  
-          营业时间： <img src="https://latex.codecogs.com/gif.latex?\approx\"> 711
+          营业时间： ![](../static/img/basic/latex.gif) 711
 
 
         * *在楼下自动贩卖机*  
